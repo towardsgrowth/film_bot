@@ -11,5 +11,5 @@ def main_buttons():
     markup.add(btn1, btn2, btn3, btn4,btn5,btn6)
     back = KeyboardButton("Back")
     markup.add(back)
+    return markup
 
-    
